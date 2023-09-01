@@ -22,7 +22,7 @@ const getProducts = async (query: Query): Promise<Product[]> => {
         },
     });
 
-    const res = await fetch(URL);
+    const res = await fetch(url);
   
     if (!res.ok) {
       throw new Error(`API request failed with status ${res.status}: ${res.statusText}`);
