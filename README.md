@@ -3,6 +3,7 @@
 ## Overview
 
 This is a full-stack E-Commerce platform featuring a robust admin dashboard that serves as a CMS and API. It's built using Next.js 13, Prisma, MySQL, and Shadcn UI for the admin interface.
+![store](https://github.com/pchuchat/Store/assets/84800814/6348a418-db2b-497e-8535-13cd1504fd10)
 
 
 
