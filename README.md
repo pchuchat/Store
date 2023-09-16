@@ -4,7 +4,7 @@
 
 This is a full-stack E-Commerce platform featuring a robust admin dashboard that serves as a CMS and API. It's built using Next.js 13, Prisma, MySQL, and Shadcn UI for the admin interface.
 
-![Dashboard Screenshot](./images/dashboard.png)
+
 
 ## Key Features
 
@@ -38,7 +38,7 @@ This is a full-stack E-Commerce platform featuring a robust admin dashboard that
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/AntonioErdeljac/next13-ecommerce-store.git
+git clone https://github.com/pchuchat/Store.git
 ````
 ## Installation
 ```bash
